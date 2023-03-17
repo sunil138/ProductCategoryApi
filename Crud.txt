@@ -1,0 +1,7 @@
+1. Crud using MongoDb - Completed
+2.Crud using sql server - Completed
+3. microservices - in progress
+4. security - in progress
+5. CQRS - in progress
+6. Angular - Completed
+7. MOQ Framework - pending
